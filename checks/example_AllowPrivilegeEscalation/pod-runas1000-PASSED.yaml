@@ -14,7 +14,7 @@ spec:
   containers:
   - name: sec-ctx-demo
     image: busybox
-    command: [ "sh", "-c", "sleep 1h" ]
+    command:
     volumeMounts:
     - name: sec-ctx-vol
       mountPath: /data/demo
