@@ -1,0 +1,22 @@
+[
+  {
+    "queryName": "Memory Limits Not Defined",
+    "severity": "MEDIUM",
+    "line": 10
+  },
+  {
+    "queryName": "Memory Limits Not Defined",
+    "severity": "MEDIUM",
+    "line": 25
+  },
+  {
+    "queryName": "Memory Limits Not Defined",
+    "severity": "MEDIUM",
+    "line": 38
+  },
+  {
+    "queryName": "Memory Limits Not Defined",
+    "severity": "MEDIUM",
+    "line": 57
+  }
+]
